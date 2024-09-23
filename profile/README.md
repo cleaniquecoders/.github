@@ -38,7 +38,7 @@ Here are some of the notable projects we have undertaken:
 
 - **📚 Hal Ehwal Pelajar**: A student activity and approval system for institutions.
 - **⚙️ ePerak**: Maintenance and support for a state-level system.
-- **💼 Service Export Funds**: A fund application management system for MATRADE.
+- **💼 Service Export Funds**: A fund application management system.
 - **🎥 Slot Media**: A media slot booking system for TV, radio, and digital marketing.
 - **👨‍💼 Staff E-Services**: A one-stop HR system for Universiti Malaya.
 - **💼 Career Portal**: Universiti Malaya’s career portal integrated with their HR services.
