@@ -1,7 +1,3 @@
-Here’s the README content with relevant emojis added:
-
----
-
 # 🚀 Cleanique Coders Resources
 
 Welcome to the official website of **Cleanique Coders Resources (CCR)**, a player in **Information Technology** consulting, advisory services, software development, and training.
@@ -61,7 +57,3 @@ For more information or to discuss potential collaborations, feel free to reach 
 
 **📧 Email**: hello@cleaniquecoders.com  
 **🌐 Website**: [cleaniquecoders.com](https://cleaniquecoders.com)
-
----
-
-This version introduces emojis to make the content more engaging and visually appealing.
